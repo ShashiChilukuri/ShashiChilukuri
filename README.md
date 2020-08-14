@@ -27,3 +27,6 @@ movie review is positive or negative. For this used AWS services - Amazon SageMa
 ### Recent Posts: 
 - [Quick Introduction to Deep Leaning](https://www.linkedin.com/pulse/quick-introduction-deep-learning-shashi-chilukuri/)
 - [PyTorch - A deep learning framework](https://www.linkedin.com/pulse/pytorch-deep-learning-framework-shashi-chilukuri/)
+
+### Tools and Languages
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
