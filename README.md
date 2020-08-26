@@ -13,8 +13,7 @@ find facial keypoints. [Code link](https://github.com/ShashiChilukuri/Deep-Learn
 image into a set of features and an RNN that turns those features into descriptive language. [Code link](https://github.com/ShashiChilukuri/Deep-Learning-Projects/tree/master/CV(PyTorch)%20-%20Image%20Captioning)
 - **Landmark detection and tracking:** Implemented a robust method for tracking an object over time, using elements of
 probability, motion models & linear algebra. [Code link](https://github.com/ShashiChilukuri/Deep-Learning-Projects/tree/master/CV(PyTorch)%20-%20Landmark%20detection%20and%20tracking)
-- **Predict daily bike rental ridership:** Built Artificial Neural Network (ANN) from scratch using algorithms like gradient
-descent, back-propagation to train/validate/test the model using Python. [Code link](https://github.com/ShashiChilukuri/Deep-Learning-Projects/tree/master/ANN(MLP)%20-%20Predict%20daily%20bike%20rental%20ridership)
+- **Predict daily bike rental ridership:** Built neural network using gradient descent, back-propagation from scratch. [Code link](https://github.com/ShashiChilukuri/Deep-Learning-Projects/tree/master/ANN(MLP)%20-%20Predict%20daily%20bike%20rental%20ridership)
 - **Classify Images:** Created Convolutional Neural Network (CNN) to implement a multi-class dog breed classifier using
 Pytorch. Also used OpenCV based Harr Feature classifiers to detect human faces to detect breed type. [Code link](https://github.com/ShashiChilukuri/Deep-Learning-Projects/tree/master/CNN(PyTorch)%20-%20Dog%20Idenfificaiton%20App)
 - **Generate new scripts:** Built a recurrent neural network using PyTorch to process provided 9 seasons of Seinfild TV
