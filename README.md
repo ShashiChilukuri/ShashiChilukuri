@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Shashi Kiran Chilukuri, a data scientist with passion for artificial intelligence and solving real-world business problems with it. Experience in implementing machine learning models, leading lean team, developing new products and providing valuable data insights. 
+I am Shashi Kiran Chilukuri, a data scientist with passion for artificial intelligence and solving real-world business problems with it. Experience in implementing machine learning models, leading lean teams, developing new products and providing valuable data insights. 
 
 ### Recent Projects: 
 - **Develop marketing Profiles:** Developed marketing profiles and classified income using exploratory data analysis and predictive models with 85.4% accuracy. [Project paper](https://github.com/ShashiChilukuri/MCS-Projects/blob/master/Create%20marketing%20Profiles/Portfolio%20Report.pdf) and [code link](https://github.com/ShashiChilukuri/MCS-Projects/tree/master/Create%20marketing%20Profiles)
