@@ -22,6 +22,7 @@ scripts and then used it to generate completely new episodes of Seinfeld. [Code 
 to generate realistic faces, using a Deep Convolutional Generative Adversarial Network (DCGAN). [Code link](https://github.com/ShashiChilukuri/Deep-Learning-Projects/tree/master/DCGAN(PyTorch)%20-%20Generate%20Face)
 - **Deploying Sentiment Analysis in the cloud:** Created a 'Sentiment Analysis Model' in PyTorch to classify a whether a
 movie review is positive or negative. For this used AWS services - Amazon SageMaker, S3, Lambda function, EC2. [Code link](https://github.com/ShashiChilukuri/Deep-Learning-Projects/tree/master/Deploying%20a%20model)
+- **Additional Machine Learning projects:** [Code Link](https://github.com/ShashiChilukuri/Machine-Learning-Projects)
 
 ### Recent Posts: 
 - [Quick Introduction to Deep Leaning](https://www.linkedin.com/pulse/quick-introduction-deep-learning-shashi-chilukuri/)
