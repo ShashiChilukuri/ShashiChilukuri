@@ -28,6 +28,8 @@ movie review is positive or negative. For this used AWS services - Amazon SageMa
 - **Additional Machine Learning projects:** [Code Link](https://github.com/ShashiChilukuri/Machine-Learning-Projects)
 
 ### Recent Posts: 
+- [Data Structures and Algorithms - Introduction](https://www.dataornothing.com/programming/data-structures-algorithms/introduction)
+- [Statistics Basics Part 1](https://www.dataornothing.com/statistics/statistics-basics-part-1)
 - [Quick Introduction to Deep Leaning](https://www.linkedin.com/pulse/quick-introduction-deep-learning-shashi-chilukuri/)
 - [PyTorch - A deep learning framework](https://www.linkedin.com/pulse/pytorch-deep-learning-framework-shashi-chilukuri/)
 
